@@ -6,9 +6,6 @@ Hi, I'm Sandhya Bolisetti 👋
 🌱 Learning: Data Analysis, Data Base, Github deployment
 🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/sandhya-bolisetti-618661289/ • 📫 sandhyabolisetti02@gmail.com
 
-Tech
-Python, HTML/CSS, Ms SQL, Excel
-
 Projects:-
 1.Sales Data Analysis Dashboard
 2.Hospital Patient Management System
