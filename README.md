@@ -10,4 +10,7 @@ Tech
 Python, HTML/CSS, Ms SQL, Excel
 
 Projects:-
-1.
+1.Sales Data Analysis Dashboard
+2.Hospital Patient Management System
+3.Banking Transaction Fraud Detection
+4.HR Employee Performance Tracker
